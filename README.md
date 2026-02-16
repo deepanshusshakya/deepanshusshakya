@@ -41,4 +41,4 @@
 ---
 
 ## 🌐 Connect with Me
-LinkedIn | Email | Portfolio
+https://www.linkedin.com/in/deepanshu-shakya-5557632a1/ | deepanshushakya2003@gmail.com | Portfolio
