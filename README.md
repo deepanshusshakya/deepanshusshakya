@@ -1,4 +1,4 @@
-# Hi 👋, I'm Deepanshu Shakya
+# Hi 👋, I am Deepanshu Shakya
 ### B.Tech Computer Science Student | Web Developer | Cloud & DevOps Learner
 
 ---
@@ -7,7 +7,7 @@
 - 🎓 B.Tech CSE Student
 - 💻 Passionate Web Developer
 - ☁️ Learning Cloud Computing & DevOps
-- 📫 Reach me at: yourgmail@gmail.com
+- 📫 Reach me at: deepanshushakya2003@gmail.com
 
 ---
 
