@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Deepanshu Shakya
+### B.Tech Computer Science Student | Web Developer | Cloud & DevOps Learner
 
-<!--
-**deepanshusshakya/deepanshusshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 💻 Passionate Web Developer
+- ☁️ Learning Cloud Computing & DevOps
+- 📫 Reach me at: yourgmail@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- React.js
+- Node.js
+- MongoDB
+- Git & GitHub
+- Cloud Basics (AWS / Azure)
+
+---
+
+## 💼 Projects
+### 🔹 LearnSphere (Online Learning Platform)
+- Authentication System
+- Admin & User Dashboard
+- CRUD Operations
+- Responsive UI
+
+### 🔹 Recipe Blog Website
+- Add / Delete Recipes
+- Dynamic Card Layout
+- Attractive UI Design
+
+---
+
+## 📊 GitHub Stats
+(Stats images yaha add karenge)
+
+---
+
+## 🌐 Connect with Me
+LinkedIn | Email | Portfolio
