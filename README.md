@@ -1,4 +1,5 @@
-<img src="file:///C:/Users/Deepanshu%20Shakya/Downloads/deepanshusshakya.png" width="100%" />
+<img src="banner.png" width="100%" />
+
 # Hi 👋, I am Deepanshu Shakya
 ### B.Tech Computer Science Student | Web Developer | Cloud & DevOps Learner
 
