@@ -1,4 +1,4 @@
-![Banner](https://your-image-link.com/banner.png)
+<img src="banner1.1.png" width="100%" />
 
 # Hi 👋, I am Deepanshu Shakya
 ### B.Tech Computer Science Student | Web Developer | Cloud & DevOps Learner
